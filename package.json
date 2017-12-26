@@ -1,0 +1,22 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "Coding test for HomeTrack",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArifJffery/CodeTest.git"
+  },
+  "author": "Arif Jaffery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArifJffery/CodeTest/issues"
+  },
+  "homepage": "https://github.com/ArifJffery/CodeTest#readme",
+  "dependencies": {
+    "ts-node": "^4.1.0"
+  }
+}
