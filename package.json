@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ArifJffery/CodeTest#readme",
   "dependencies": {
+    "@types/express": "^4.11.0",
+    "express": "^4.16.2",
     "ts-node": "^4.1.0"
   }
 }
